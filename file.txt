@@ -1,0 +1,3 @@
+Hi hello world
+
+Its a first file of git.
